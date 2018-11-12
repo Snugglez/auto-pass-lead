@@ -1,0 +1,6 @@
+{
+	"disableAutoUpdate": false,
+    "options": {"niceName": "apl"},
+	"servers": ["https://raw.githubusercontent.com/Snugglez/auto-pass-lead/master/"],
+	"supportUrl": "https://github.com/Snugglez/auto-pass-lead/blob/master/README.md"
+}
